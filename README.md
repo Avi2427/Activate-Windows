@@ -45,5 +45,6 @@ const Steps = {
 > **By**: Avinash 
 
 > **Host**:   kms8.msguides.com
-> [![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+
+> [![Discord Link](https://cdn.discordapp.com/attachments/848076852321058866/862955386767409152/Discord_software-Logo.wine.png)](https://discord.gg/YMG73CTEtH)
 
