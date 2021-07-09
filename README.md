@@ -46,5 +46,5 @@ const Steps = {
 
 > **Host**:   kms8.msguides.com
 
-> [![Discord Link](https://cdn.discordapp.com/attachments/848076852321058866/862955386767409152/Discord_software-Logo.wine.png)](https://discord.gg/YMG73CTEtH)
+> [![Discord Link](https://cdn.discordapp.com/attachments/840211432998043700/862956424161132544/download.png)](https://discord.gg/YMG73CTEtH)
 
