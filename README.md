@@ -1,4 +1,4 @@
-# Win 10
+# WiN 10
 ```js
 const Activation = require('Win 10 Any version')
 
